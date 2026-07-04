@@ -1,0 +1,13 @@
+# Build files
+*.o
+*.obj
+*.pdb
+build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
